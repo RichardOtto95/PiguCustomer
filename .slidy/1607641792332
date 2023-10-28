@@ -1,0 +1,5 @@
+lib/app/modules/invite_to_share/invite_to_share_module.dart
+lib/app/modules/invite_to_share/invite_to_share_page.dart
+test/app/modules/invite_to_share/invite_to_share_page_test.dart
+lib/app/modules/invite_to_share/invite_to_share_controller.dart
+test/app/modules/invite_to_share/invite_to_share_controller_test.dart

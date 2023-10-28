@@ -1,0 +1,5 @@
+lib/app/modules/seller_profile/seller_profile_module.dart
+lib/app/modules/seller_profile/seller_profile_page.dart
+test/app/modules/seller_profile/seller_profile_page_test.dart
+lib/app/modules/seller_profile/seller_profile_controller.dart
+test/app/modules/seller_profile/seller_profile_controller_test.dart

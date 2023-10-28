@@ -1,0 +1,5 @@
+lib/app/modules/user_profile_edit/user_profile_edit_module.dart
+lib/app/modules/user_profile_edit/user_profile_edit_page.dart
+test/app/modules/user_profile_edit/user_profile_edit_page_test.dart
+lib/app/modules/user_profile_edit/user_profile_edit_controller.dart
+test/app/modules/user_profile_edit/user_profile_edit_controller_test.dart

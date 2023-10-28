@@ -1,0 +1,5 @@
+lib/app/modules/virtual_queue/virtual_queue_module.dart
+lib/app/modules/virtual_queue/virtual_queue_page.dart
+test/app/modules/virtual_queue/virtual_queue_page_test.dart
+lib/app/modules/virtual_queue/virtual_queue_controller.dart
+test/app/modules/virtual_queue/virtual_queue_controller_test.dart

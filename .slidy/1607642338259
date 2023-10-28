@@ -1,0 +1,5 @@
+lib/app/modules/table-opening/table_opening_module.dart
+lib/app/modules/table-opening/table_opening_page.dart
+test/app/modules/table-opening/table_opening_page_test.dart
+lib/app/modules/table-opening/table_opening_controller.dart
+test/app/modules/table-opening/table_opening_controller_test.dart

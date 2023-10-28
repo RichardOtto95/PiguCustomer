@@ -1,0 +1,5 @@
+lib/app/modules/restaurant_selected/restaurant_selected_module.dart
+lib/app/modules/restaurant_selected/restaurant_selected_page.dart
+test/app/modules/restaurant_selected/restaurant_selected_page_test.dart
+lib/app/modules/restaurant_selected/restaurant_selected_controller.dart
+test/app/modules/restaurant_selected/restaurant_selected_controller_test.dart

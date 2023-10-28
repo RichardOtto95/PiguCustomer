@@ -1,0 +1,5 @@
+lib/app/modules/open_table/open_table_module.dart
+lib/app/modules/open_table/open_table_page.dart
+test/app/modules/open_table/open_table_page_test.dart
+lib/app/modules/open_table/open_table_controller.dart
+test/app/modules/open_table/open_table_controller_test.dart
